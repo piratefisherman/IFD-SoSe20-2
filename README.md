@@ -1,125 +1,82 @@
-### [**00 _#_** Preface](L00)  
-- Welcome, Requirements, Expectations
-
-#### [**24 _Apr_** KickOff Meeting](L00/Review_Meeting)
-
-#### [**24 _Apr_** Workshop](L00/#aufgabe)
+#### [**24 _Apr_** KickOff Meeting](L00)
+- Onboarding, Anforderungen, Erwartungen
+- Einführung User Interfaces, Interface Design
 
 ---
 
-### [**01 _#_** Usability, UCD/HCD, UX](L01)  
-- ...
+### [**01 _#_** User Experience Design](L01)  
+- Usability
+- Human Factor, User-Centered Design / HCM
+- UX und Design Thinking
 
-#### [**08 _Mai_** KickOff Meeting](L01/Review_Meeting)
-
-#### [**08 _Mai_** Workshop](L01/#aufgabe)
+#### [**08 _Mai_** Review #01 | Workshop --- The Wallet Project](L01/#aufgabe)
 
 ---
 
 ### [**02 _#_** Prototyping](L02)  
-- ...
+- Low- und High-Fidelity Prototyping
+- Werkzeuge und Methoden
 
-#### [**08 _Mai_** KickOff Meeting](L02/Review_Meeting)
 
-#### [**08 _Mai_** Workshop](L02/#aufgabe)
-
----
-
-### [*03 _#_** Wahrnehmung, Semiotik](L03)
-- ...
-
-#### [**15 _Mai_** KickOff Meeting](L03/Review_Meeting)
-
-#### [**15 _Mai_** Workshop](L03/#aufgabe)
+#### [**15 _Mai_** Review #02 | Workshop --- GUI](L02/#aufgabe)
 
 ---
 
-### [*04 _#_** Heuristische Analysen](L04)
-- ...
+### [**03 _#_** Wahrnehmung, Semiotik](L03)
+- Kognition in der HCI
+- Der visuelle sensorische Speicher
+- Aufmerksam und Wahrnehmung
 
-#### [**22 _Mai_** KickOff Meeting](L04/Review_Meeting)
-
-#### [**22 _Mai_** Workshop](L04/#aufgabe)
-
----
-
-### [*05 _#_** UI Design Guidelines, Pattern Libraries](L05)
-- ...
-
-#### [**29 _Mai_** KickOff Meeting](L05/Review_Meeting)
-
-#### [**29 _Mai_** Workshop](L05/#aufgabe)
+#### [**22 _Mai_** Review #03 | Workshop --- GUI](L03/#aufgabe)
 
 ---
 
-### [*06 _#_** Microinteractions](L06)
-- ...
+### [**04 _#_** Design Grundsätze und Heuristiken](L04)
+- ISO 9241, Shneidermann, Nielsen und Molich
 
-#### [**29 _Mai_** KickOff Meeting](L06/Review_Meeting)
-
-#### [**29 _Mai_** Workshop](L06/#aufgabe)
+#### [**29 _Mai_** Review #04 | Workshop --- VUI](L04/#aufgabe)
 
 ---
 
-### [*07 _#_** Inclusive Design](L07)
-- ...
+### [**05 _#_** UI Design Guidelines, Pattern Libraries](L05)
 
-#### [**05 _Jun_** KickOff Meeting](L07/Review_Meeting)
-
-#### [**05 _Jun_** Workshop](L07/#aufgabe)
+#### [**05 _Jun_** Review #05 | Workshop --- VUI](L05/#aufgabe)
 
 ---
 
-### [*08 _#_** Natural Language Interfaces & AI](L08)
-- ...
+### [**06 _#_** Microinteractions](L06)
 
-#### [**05 _Jun_** KickOff Meeting](L08/Review_Meeting)
-
-#### [**05 _Jun_** Workshop](L08/#aufgabe)
+#### [**12 _Jun_** Review #06 | Workshop --- Mixed Reality + HMD](L06/#aufgabe)
 
 ---
 
-### [*09 _#_** Physical Computing, Tangible Prototyping](L09)
-- ...
+### [**07 _#_** Inclusive Design](L07)
 
-#### [**12 _Jun_** KickOff Meeting](L09/Review_Meeting)
-
-#### [**12 _Jun_** Workshop](L09/#aufgabe)
+#### [**19 _Jun_** Review #07 | Workshop --- Mixed Reality + HMD](L07/#aufgabe)
 
 ---
 
-### [*10 _#_** IoT, Ubiquitous Computing](L10)
-- ...
-
-#### [**19 _Jun_** KickOff Meeting](L10/Review_Meeting)
-
-#### [**19 _Jun_** Workshop](L10/#aufgabe)
+#### **26 _Jun_** Tag der Medien (Virtual)
 
 ---
 
-### [*11 _#_** Testing, Evaluating](L11)
-- ...
+### [**08 _#_** Natural Language Interfaces & AI](L08)
 
-#### [**03 _Jul_** KickOff Meeting](L11/Review_Meeting)
-
-#### [**03 _Jul_** Workshop](L11/#aufgabe)
+#### [**03 _Jul_** Review #08 | Workshop --- Mixed Reality + HMD](L08/#aufgabe)
 
 ---
 
-### [*12 _#_** Futuristic Interfaces](L12)
-- ...
+### [**09 _#_** Physical Computing, IoT](L09)
+- Ubiquitous Computing
+- Tangible User Interfaces
+- Printed Electronics
+- Physical Computing mit Arduino, Raspi und ESP
 
-#### [**10 _Jul_** KickOff Meeting](L12/Review_Meeting)
-
-#### [**10 _Jul_** Workshop](L12/#aufgabe)
-
----
-
-### [*13 _#_** Wrap Up](L13)
-- ...
-
-#### [**17 _Jul_** KickOff Meeting](L13/Review_Meeting)
-
-#### [**17 _Jul_** Workshop](L13/#aufgabe)
+#### [**10 _Jul_** Review #09 | Workshop --- IoT](L09/#aufgabe)
 
 ---
+
+### [**10 _#_** Testing, Evaluating](L10)
+
+#### [**17 _Jul_** Review #10 | Workshop --- IoT](L10/#aufgabe)
+
