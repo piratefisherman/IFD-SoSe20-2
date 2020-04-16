@@ -32,25 +32,34 @@
 ---
 
 ### [**04 _#_** Design Grundsätze und Heuristiken](L04)
-- ISO 9241, Shneidermann, Nielsen und Molich
+- ISO 9241
+- Shneidermann and the 8 golden rules
+- Nielsen und Molich
 
 #### [**29 _Mai_** Review #04 | Workshop --- VUI](L04/#aufgabe)
 
 ---
 
 ### [**05 _#_** UI Design Guidelines, Pattern Libraries](L05)
+- Patterns, (living) Styleguides
+- Design Systems
 
 #### [**05 _Jun_** Review #05 | Workshop --- VUI](L05/#aufgabe)
 
 ---
 
 ### [**06 _#_** Microinteractions](L06)
+- Trigger, Feedback, Modes
+- Tonality
 
 #### [**12 _Jun_** Review #06 | Workshop --- Mixed Reality + HMD](L06/#aufgabe)
 
 ---
 
 ### [**07 _#_** Inclusive Design](L07)
+- Universal and inclusive design
+- Disablilities
+- Accessibility
 
 #### [**19 _Jun_** Review #07 | Workshop --- Mixed Reality + HMD](L07/#aufgabe)
 
@@ -61,6 +70,8 @@
 ---
 
 ### [**08 _#_** Natural Language Interfaces & AI](L08)
+- (Multi-) Touch Interaktion
+- Gestensteuerung
 
 #### [**03 _Jul_** Review #08 | Workshop --- Mixed Reality + HMD](L08/#aufgabe)
 
@@ -74,11 +85,12 @@
 
 #### [**10 _Jul_** Review #09 | Workshop --- IoT](L09/#aufgabe)
 
-
 ---
 
-
 ### [**10 _#_** Testing, Evaluating](L10)
+- Cognitive Walkthrough, Heurisic Evaluation
+- User Tesing, A-B / Multi-Variant Testing, 
+- Think-Aloud
 
 #### [**17 _Jul_** Review #10 | Workshop --- IoT](L10/#aufgabe)
 
