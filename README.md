@@ -79,4 +79,3 @@
 ### [**10 _#_** Testing, Evaluating](L10)
 
 #### [**17 _Jul_** Review #10 | Workshop --- IoT](L10/#aufgabe)
-
