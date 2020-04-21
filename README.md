@@ -9,7 +9,7 @@
 - Human Factor, User-Centered Design / HCM
 - UX und Design Thinking
 
-#### [**08 _Mai_** Review #01](L01/#-qa-fragen-und-antworten) [Workshop --- The Wallet Project](L01/#a-----aufgabe-01)
+#### [**08 _Mai_** Q&A #01](L01/#-qa-fragen-und-antworten) [Praktikum --- The Wallet Project](L01/#a-----aufgabe-01)
 
 ---
 
@@ -18,7 +18,7 @@
 - Werkzeuge und Methoden
 
 
-#### [**15 _Mai_** Review #02 | Workshop --- GUI](L02/#aufgabe)
+#### [**15 _Mai_** Review #02](L02/#-qa-fragen-und-antworten) [Praktikum --- GUI](L02/#a-----aufgabe-02)
 
 ---
 
@@ -27,7 +27,7 @@
 - Der visuelle sensorische Speicher
 - Aufmerksam und Wahrnehmung
 
-#### [**22 _Mai_** Review #03 | Workshop --- GUI](L03/#aufgabe)
+#### [**22 _Mai_** Review #03](L03/#-qa-fragen-und-antworten) [Praktikum --- GUI](L03/#a-----aufgabe-03)
 
 ---
 
@@ -36,7 +36,7 @@
 - Shneidermann and the 8 golden rules
 - Nielsen und Molich
 
-#### [**29 _Mai_** Review #04 | Workshop --- VUI](L04/#aufgabe)
+#### [**29 _Mai_** Review #04](L04/#-qa-fragen-und-antworten) [Praktikum --- VUI](L04/#a-----aufgabe-04)
 
 ---
 
@@ -44,7 +44,7 @@
 - Patterns, (living) Styleguides
 - Design Systems
 
-#### [**05 _Jun_** Review #05 | Workshop --- VUI](L05/#aufgabe)
+#### [**05 _Jun_** Review #05](L05/#-qa-fragen-und-antworten) [Praktikum --- VUI](L05/#a-----aufgabe-05)
 
 ---
 
@@ -52,7 +52,7 @@
 - Trigger, Feedback, Modes
 - Tonality
 
-#### [**12 _Jun_** Review #06 | Workshop --- Mixed Reality + HMD](L06/#aufgabe)
+#### [**12 _Jun_** Review #06](L06/#-qa-fragen-und-antworten) [Praktikum --- Mixed Reality + HMD](L06/#a-----aufgabe-06)
 
 ---
 
@@ -61,7 +61,7 @@
 - Disablilities
 - Accessibility
 
-#### [**19 _Jun_** Review #07 | Workshop --- Mixed Reality + HMD](L07/#aufgabe)
+#### [**19 _Jun_** Review #07](L07/#-qa-fragen-und-antworten) [Praktikum --- Mixed Reality + HMD](L07/#a-----aufgabe-07)
 
 ---
 
@@ -73,7 +73,7 @@
 - (Multi-) Touch Interaktion
 - Gestensteuerung
 
-#### [**03 _Jul_** Review #08 | Workshop --- Mixed Reality + HMD](L08/#aufgabe)
+#### [**03 _Jul_** Review #08](L08/#-qa-fragen-und-antworten) [Praktikum --- Mixed Reality + HMD](L08/#a-----aufgabe-08)
 
 ---
 
@@ -83,7 +83,7 @@
 - Printed Electronics
 - Physical Computing mit Arduino, Raspi und ESP
 
-#### [**10 _Jul_** Review #09 | Workshop --- IoT](L09/#aufgabe)
+#### [**10 _Jul_** Review #09](L09/#-qa-fragen-und-antworten) [Praktikum --- IoT](L09/#a-----aufgabe-09)
 
 ---
 
@@ -92,6 +92,6 @@
 - User Tesing, A-B / Multi-Variant Testing, 
 - Think-Aloud
 
-#### [**17 _Jul_** Review #10 | Workshop --- IoT](L10/#aufgabe)
+#### [**17 _Jul_** Review #10](L00/#-qa-fragen-und-antworten) [Praktikum --- IoT](L10/#a-----aufgabe-10)
 
 
