@@ -1,4 +1,4 @@
-#### [**24 _Apr_** KickOff Meeting](L00)
+#### [**24 _Apr_** KickOff Meeting](L00)  | [Praktikum](L00/#a--aufgabe-00)
 - Onboarding, Anforderungen, Erwartungen
 - Einführung User Interfaces, Interface Design
 
