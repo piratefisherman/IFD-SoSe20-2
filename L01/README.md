@@ -38,7 +38,7 @@
 
 Um die grundlegende Herangehensweise einer UX-getriebenden Produkt-Entwicklung zu verstehen werden wir ein kleines "IDEO"-Experiment zusammen machen. Mit dem "Wallet Project" werden Sie Schritt für Schritt durch den Design Thinking Prozess gehen und ein optimales Produkt für Ihren virtuellen Banknachbarn entwickeln.
 
-![5-stufiger Design Thinking Prozess nach d.school Bootcamp Bootleg (HPI)](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![5-stufiger Design Thinking Prozess nach d.school Bootcamp Bootleg (HPI)](5_Phased_Design_Thinking_Process_DSchool.png)
 
 Alle Aufgabenschritte werden im Praktikum vorgestellt und zusammen bearbeiten. Hier aber schon einmal die Bearbeitungsschritte in Textform:
 
