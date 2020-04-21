@@ -56,9 +56,9 @@ Erstellen Sie eine SWOT-Analyse zu Ihrer Person im Kontext von diesem Kurs.
 
 Stellen Sie die SWOT-Analyse mit Medien Ihrer Wahl dar, nutzen Sie Medien / Techniken / ... die sie schon gut beherrschen (das kann von einer Mircopage/Website, Audio-Arrangement, Videoclip bis hin zu einer analogen, eingescannten/abgefilmten Arbeit reichen. Seien Sie kreativ.
 
-### Abgabe bis zum 27. Mai um 18:00
+### Abgabe bis zum 06. Mai um 18:00
 
-Alle Aufgaben würde ich gerne von Ihnen gesammelt im Github Repository dokumentiert haben. Bei dieser Aufgabe stelle ich es Ihnen aber frei, die Abgabe auch auf einem andern Umgebung (passwortgeschützt) abzulegen (es könnte ja sein, das Ihnen der Inhalt Ihrer SWOT zu persönlich ist). Zwei Abgabevarianten gibt es also:
+Alle Aufgaben würde ich gerne von Ihnen gesammelt im Github Repository dokumentiert haben. Bei dieser Aufgabe stelle ich es Ihnen aber frei, die Abgabe auch auf einer anderen Umgebung (passwortgeschützt) abzulegen (es könnte ja sein, das Ihnen der Inhalt Ihrer SWOT zu persönlich ist). Zwei Abgabevarianten gibt es also:
 
 a) Das Ergebnis liegt in einem Unterordner Ihres Github Repositories (also "ifd-sose20/task0_swot"). Fügen Sie dann auch einen Link in Ihre README Datei (die auf höchster Ebene Ihres Github Repositories liegt).
 
