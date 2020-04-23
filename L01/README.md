@@ -52,7 +52,7 @@ Bearbeiten Sie folgende Schritte
 2. **Define**
     1. Arbeiten Sie die relevanten Aspekte aus Ihren Daten (**Top Findings**).
     2. Formuliere ein Standpunkt /Point-of-View zu den Top Findings: "Ich, als Nutzer, benötige etwas, um _ _ _ _ _ _ _, da (oder "aber...") _ _ _ _". Der Point-of-View fasst die Ziele und Wünsche, als auch Insights zusammen.
-3. **Ideate**√
+3. **Ideate**
     1. Entwickeln Sie erste Ideen. 
     2. Experimentieren Sie gerne mit Ideefindungsmethoden, wie bspw. "Crazy 8", um möglichst viele radikale Lösungsansätze zu generieren.
 4. **Prototype**
@@ -66,6 +66,7 @@ Bearbeiten Sie folgende Schritte
     2. In dieser Iteration sollte der Prototyp von der Skizze zu einem Medium Ihrer Wahl weiterentwickeln werden. Sie können dabei jedes Medium nutzen (analoge, haptische Medien bitte für die Dokumentation abfotografieren oder abfilmen).
 
 Dokumentieren Sie Ihre Schritte gut, halten Sie die ersten Entwürfe fest und erstellen Sie eine kleine Dokumentation dieser Aufgabe in Ihrem Github Repository.
+
 **Am 08. Mai werden wir im Online-Meeting Ihren aktuellen (fast finalen Stand) reviewen**. Bereiten Sie sich also auf eine "Elevator Pitch" (ca. 2 Minuten Präsentation) vor.
 
 ### Abgabe bis zum 10. Mai um 18:00 in Ihrer Github Repository Readme verlinken.
