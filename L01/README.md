@@ -36,22 +36,39 @@
 ## **A _---_** Aufgabe #01
 ### The Wallet Project -- A try run through the full DT circle
 
-Um die grundlegende Herangehensweise einer UX-getriebenden Produkt-Entwicklung zu verstehen werden wir ein kleines "IDEO"-Experiment zusammen machen. Mit dem "Wallet Project" werden Sie Schritt für Schritt durch den Design Thinking Prozess gehen und ein optimales Produkt für Ihren virtuellen Banknachbarn entwickeln.
+Um die grundlegende Herangehensweise einer UX-getriebenden Produkt-Entwicklung anzuwenden werden Sie mit dem "Wallet Project" Schritt für Schritt durch den Design Thinking Prozess gehen und ein optimales Produkt für eine sehr kleine ausgewählte Zielgruppe entwickeln.
 
 ![5-stufiger Design Thinking Prozess nach d.school Bootcamp Bootleg (HPI)](5_Phased_Design_Thinking_Process_DSchool.png)
 
-Alle Aufgabenschritte werden im Praktikum vorgestellt und zusammen bearbeiten. Hier aber schon einmal die Bearbeitungsschritte in Textform:
+Das "Wallet Project" ist ein von der d.school vom Hasso Pattner Institute of Design at Standford vorgeschlagener "Schnellwaschgang" durch den Design Thinking Prozess, den wir hier für den Kurs adaptiert anwenden werden. Ihre Aufgabe ist es **eine ideale Geldbörse** für eine sehr kleine, ausgewählte Zielgruppe zu entwickeln (nämlich nur für eine Person). 
 
-1. Contextual Inquiry - 6min (2 sessions x 3 minutes each)
-2. Capture findings - 3min
-3. 3 Take a stand with a point-of-view - 3min
-4. 4 Sketch at least 4 radical ways to meet your user’s needs - 4min
-5. 5 Share your solutions & capture feedback - 6min (2 sessions x 3 minutes each)
-6. 6 Reflect, improve and build your solution - 15min
+Bearbeiten Sie folgende Schritte
 
-Bitte dokumentieren Sie Ihre Schritte gut, halten Sie die ersten Entwürfe fest und erstellen Sie eine kleine Dokumentation dieser Aufgabe in Ihrem Github Repository. Im Online-Meeting sollten wir bis Punkt 6 kommen. Entwickeln Sie in der Zeit nach dem Kurs das Konzept und den Prototypen weiter, iterieren Sie also noch einmal und verbessern Sie Ihren Entwurf. In einem Einzel-Online-Meeting mit Ihrem Partner sollten Sie vor der Abgabe den finalen Entwurfskandidaten noch einmal evaluieren.
+1. **Empathize**
+    1. Suchen Sie sich **eine** Person, Sie stellt ihre Zielgruppe und gleichzeitig auch die repräsentative Testperson aus dieser Zielgruppe dar.
+    2. Versuchen Sie eine Empathie zu der Person im Nutzungskontext mit einer Geldbörse zu schaffen. Versuchen Sie zu verstehen, wie die Person aktuell eine Geldbörse nutzt, welche Aspekte gut, welche schlecht sind. Welche Aspekte müssten Sie in Ihrer "idealen Geldbörse" berücksichtigen? Führen Sie ein "Contextual Inquiry" mit dieser Person durch. Recherchieren Sie selbst, wie diese Methode aus Interview und Beobachtung durchgeführt wird. Berücksichtigen Sie in Ihrer Planung des Contextual Inquiries die aktuellen Kontakteinschränkungen.
+    3. Zur Vorbereitung Ihres Contextual Inquiries werden Sie einen Gesprächsleitfaden entwickeln. 
+    4. Führen Sie Ihre qualitative Studie durch, sammeln Sie Daten (Gespräch schriftlich protokollieren, auch Zitate festhalten). Alle Daten müssen anonymisiert erhoben werden!
+2. **Define**
+    1. Arbeiten Sie die relevanten Aspekte aus Ihren Daten (**Top Findings**).
+    2. Formuliere ein Standpunkt /Point-of-View zu den Top Findings: "Ich, als Nutzer, benötige etwas, um _ _ _ _ _ _ _, da (oder "aber...") _ _ _ _". Der Point-of-View fasst die Ziele und Wünsche, als auch Insights zusammen.
+3. **Ideate**√
+    1. Entwickeln Sie erste Ideen. 
+    2. Experimentieren Sie gerne mit Ideefindungsmethoden, wie bspw. "Crazy 8", um möglichst viele radikale Lösungsansätze zu generieren.
+4. **Prototype**
+    1. Entwickeln Sie eine Idee weiter.
+    2. Führen Sie Ihre Idee als Skizze auf Papier weiter aus.
+5. **Test**
+    1. Testen Sie Ihren ersten Lösungsansatz. Präsentieren Sie Ihre Skizze und sammeln Sie erstes Feedback von Ihrem Probanden.
+    2. Notieren Sie sich das Feedback, Aspekte die schon gut sind und Punkte die verbessert werden müssen.
+6. **Prototype Iteration**
+    1. Entwickeln Sie Ihren Prototypen weiter und berücksichtigen Sie dabei die Verbesserungsvorschläge aus dem User Testing
+    2. In dieser Iteration sollte der Prototyp von der Skizze zu einem Medium Ihrer Wahl weiterentwickeln werden. Sie können dabei jedes Medium nutzen (analoge, haptische Medien bitte für die Dokumentation abfotografieren oder abfilmen).
 
-### Abgabe bis zum 13. Mai um 18:00 in Ihrer Github Repository Readme verlinken.
+Dokumentieren Sie Ihre Schritte gut, halten Sie die ersten Entwürfe fest und erstellen Sie eine kleine Dokumentation dieser Aufgabe in Ihrem Github Repository.
+**Am 08. Mai werden wir im Online-Meeting Ihren aktuellen (fast finalen Stand) reviewen**. Bereiten Sie sich also auf eine "Elevator Pitch" (ca. 2 Minuten Präsentation) vor.
+
+### Abgabe bis zum 10. Mai um 18:00 in Ihrer Github Repository Readme verlinken.
 
 
 ---
