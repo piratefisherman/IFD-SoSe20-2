@@ -14,11 +14,13 @@
 
 ### Literature
 
-Preece, Jenny, Yvonne Rogers, and Helen Sharp. Interaction design : beyond human-computer interaction. Indianapolis, IN: Wiley, 2019.
+Preece, Jenny, Yvonne Rogers, and Helen Sharp. **Interaction design : beyond human-computer interaction**. Indianapolis, IN: Wiley, 2019. (Anmerkung: hier besonders Kapitel 12ff)
 
-Snyder, Carolyn. Paper prototyping : the fast and easy way to design and refine user interfaces. San Francisco, Calif: Morgan Kaufmann, Elsevier Science, 2003. Print.
+Snyder, Carolyn. **Paper prototyping : the fast and easy way to design and refine user interfaces**. San Francisco, Calif: Morgan Kaufmann, Elsevier Science, 2003. Print. (Anmerkung: ein toller Klassiker)
 
-Mullen, Tony. Prototyping augmented reality. Indianapolis, Ind: Wiley, 2011. (Anmerkung: technologisch überholt, aber methodisch und konzeptionell interessant)
+Adenauer, Julian, and Jörg Petruschat. **Prototype! physical, virtual, hybrid, smart; tackeling new challenges in design and engineering**. Berlin: Form + Zweck, 2012.
+
+Mullen, Tony. **Prototyping augmented reality**. Indianapolis, Ind: Wiley, 2011. (Anmerkung: technologisch überholt, aber methodisch und konzeptionell interessant)
 
 ---
 
