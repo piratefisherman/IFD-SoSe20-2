@@ -1,4 +1,4 @@
-## **01 _#_** User Experience Design
+## **01 _#_** Prototyping
 
 ### Prototyping - Definition & Fidelity
 <video controls width="100%"> 
