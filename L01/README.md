@@ -30,6 +30,21 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L01/05_Design_Thinking.mp4">Zum Video</a>
 </video>
 
+### Literature
+
+Shneiderman, Ben, and Catherine Plaisant. Designing the user interface : strategies for effective human-computer interaction. Boston: Pearson/Addison Wesley, 2004.
+
+Cooper, Alan, Robert Reimann, and Dave Cronin. About face 3 : the essentials of interaction design. Indianapolis, IN: Wiley Pub, 2007.
+
+Preece, Jenny, Yvonne Rogers, and Helen Sharp. Interaction design : beyond human-computer interaction. Indianapolis, IN: Wiley, 2019.
+
+Weyers, Benjamin, et al. The handbook of formal methods in human-computer interaction. Cham, Switzerland: Springer, 2017. Print.
+
+Norman, Donald A. The design of everyday things. New York, New York: Basic Books, 2013.
+
+Krug, Steve, et al. Don't make me think, revisited : a common sense approach to Web usability. San Francisco, California: New Riders, Peachpit, Pearson Education, 2014.
+
+
 ---
 
 
