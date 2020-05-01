@@ -84,7 +84,7 @@ Dokumentieren Sie Ihre Schritte gut, halten Sie die ersten Entwürfe fest und er
 
 **Am 08. Mai werden wir im Online-Meeting Ihren aktuellen (fast finalen Stand) reviewen**. Bereiten Sie sich also auf eine "Elevator Pitch" (ca. 2 Minuten Präsentation) vor.
 
-### Abgabe bis zum 10. Mai um 18:00 in Ihrer Github Repository Readme verlinken.
+### Abgabe bis zum 10. Mai um 18:00 in Ihrer Github-Repository-Readme verlinken.
 
 
 ---
