@@ -45,21 +45,20 @@ Mit dem ersten Teil dieser Aufgabe werden wir zusammen eine Übersicht von aktue
 
 3. Reichern Sie Ihre Tool-Vorstellung mit Screenshots oder Screencast-Clips an.
 
-4. Verlinken Sie das Ergebnis in Ihrer Repo-Root-Readme.
 
 
 ### Aufgabe 2.2 - Konzeptentwurf
 
 Im zweiten Teil dieser Aufgabe werden Sie ein Konzept zu einem GUI entwickeln. Tool-Einsatz ist für die erste Entwurfsphase **Papier und Stift** (können auch farbige Stifte sein).
 
-Ein Kunde gibt ihnen im Briefing folgende Informationen:
+Ein Kunde aus der Industrie gibt Ihnen im Briefing folgende Informationen:
 
 > Unser Controlling liefert der Geschäftsleitung Daten als Exceldatei zu den Produktionszahlen in unseren Werken. Wir wollen eine zeitgemäße Lösung ohne Excel, um schnell und einfach aktuelle Zahlen mit älteren Datenständen zu vergleichen. Die wichtigstens Informationen in der Excel sind aktuell: die produzierte Stückzahl, die Anzahl des Ausschusses, Kosten für Verschleißteile und Krankmeldungen der Mitarbeiter. Wir bekommen diese Daten von allen vier Werken jeden Tag zum Schichtwechsel um 22:00 Uhr.
 
 Konzipieren Sie eine grafische Schnittstelle zur Darstellung aller relevanten Informationen. Digitalisieren Sie Ihre Scribbles und legen Sie die Entwürfe in einen Aufgaben-Unterordner Ihres Repos.
 
 
-### Abgabe bis zum 17. Mai um 18:00 in Ihrer Github-Repository-Readme verlinken.
+### Beide Teilaufgaben bis zum 17. Mai um 18:00 in Ihrer Github-Repository-Readme verlinken.
 
 ---
 
