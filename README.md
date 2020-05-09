@@ -22,10 +22,9 @@
 
 ---
 
-### [**03 _#_** Wahrnehmung, Semiotik](L03)
-- Kognition in der HCI
+### [**03 _#_** Wahrnehmung und Aufmerksamkeit](L03)
+- Aspekte der Kognition im Interface Design
 - Der visuelle sensorische Speicher
-- Aufmerksam und Wahrnehmung
 
 #### [**22 _Mai_** Q&A #03](L03/#-qa-fragen-und-antworten) | [Praktikum --- GUI](L03/#a--aufgabe-03)
 

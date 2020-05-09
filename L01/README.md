@@ -91,11 +91,95 @@ Dokumentieren Sie Ihre Schritte gut, halten Sie die ersten Entwürfe fest und er
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+(die Zusammenfassung der Q&A-Session wurden von Teilnehmern verfasst und ggf. angepasst und ergänzt)
 
 
-### Erste Frage?
-Lorem labore cillum mollit pariatur reprehenderit dolor laboris reprehenderit dolor sit officia ea non. Lorem reprehenderit exercitation labore eiusmod aute do nostrud officia aute proident sunt. Labore non tempor aliqua voluptate. Exercitation culpa officia ut aliqua nostrud laborum irure est. Minim eu sunt culpa adipisicing laborum consectetur aliqua quis.
+Mitschrieb von [piratefisherman](https://github.com/piratefisherman)
 
-### Zweite Frage?
-Mollit aliquip veniam sit eiusmod tempor anim ipsum tempor. Aliqua sunt voluptate ea dolor. Nulla est mollit consectetur cupidatat ut cillum ipsum minim. Est ex et nulla laborum fugiat dolore. Aliquip laboris sint exercitation commodo dolor sint mollit qui sunt ipsum fugiat occaecat id enim.
+Einführung
+
+-   Ubiquitus Computing: Allgegenwärtigkeit der Computer
+
+-   Lippmans Aspen Movie Map (erste Mixed Reality Anwendung)
+
+-   HCI / HMI: Area of Research and practice to design thyme interaction between humans and computers
+
+Human Factors and Ergonomics
+
+-   Schnittstelle an Arbeitskontext anpassen und Produktivität steigern
+
+-   Usability: easy and intuitive to use
+
+-   User Experience: Positive emotional experience
+
+Ergonomie = Gestaltung von Schnittstellen im Arbeitskontext in Abhängigkeit vom Menschen
+
+-   Nicht zu schwer sein
+
+-   Gut in der Hand liegen
+
+-   Die richtige Größe haben
+
+Effizienz in der Produktion steigern -> Wie kann der Mensch die Maschine optimal nutzen?
+
+Engelbarts Computer-Maus
+
+Ergonomics for a Computer
+
+Usability
+
+Tee extend to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use
+
+Effektivität: Fähigkeit ein Ziel zu erreichen
+
+Effizienz: Ziel mit dem geringsten Aufwand erreichen
+
+Satisfaction: höhe der Usability beschreiben
+
+User Experience
+
+Positive emotional experience
+
+Customer Journey
+
+Touch Point
+
+Design Thinking
+
+UCD
+
+1.  Plan Design Process
+
+2.  Analayze context of use
+
+3.  Specify
+
+4.  Ideate and Design
+
+5.  Evaluate
+
+→ Iterativer Prozess
+
+Design Thinking Ansatz
+
+1.  Empathize: Qualitative Daten sammeln
+
+2.  Define: Wer ist die Zielgruppe?
+
+PROBLEMSPACE
+
+_________________________________
+
+SOLUTION SPACE
+
+1.  Ideate: Erste Konzepte anskizzieren
+
+2.  Prototype: Konzepte gestalten
+
+3.  Test: Lösung vorführen (Validieren)
+
+→ nach vorne und hintenspringen = möglich
+
+Contextual Enquiry: Beobachtung und Interiew
+
+User Story
