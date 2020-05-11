@@ -31,20 +31,16 @@ Hagendorf, Herbert. **Allgemeine Psychologie für Bachelor: Wahrnehmung und Aufm
 
 ## **A _---_** Aufgabe #03
 
-### Aufgabe 3.1 - Konzeptentwurf verproben
+### Aufgabe 3.1 - High-Fid Prototype
 
-<!--
-Präsentieren Sie Ihren Low-Fid Prototypen einem Kommilitone. Gehen Sie dabei zwei-stufig vor:
+Erstellen Sie einen High-Fidelity Prototypen auf Basis Ihres Low-Fids aus der letzten Aufgabe. Berücksichtigen Sie bei Ihrer Umsetzung auch das Feedback aus dem Praktikum. Der Prototyp sollte eine hohe visuelle, interaktive und inhaltliche Ebene bedienen (für die inhaltliche Ebene dürfen Sie sich natürlich Dummy-Daten ausdenken).
 
-1. Präsentieren Sie zunächst **ohne Erklärung von Details** Ihren Prototypen. Der Nutzer soll sein Verständnis zur Informationarchitektur, Stukturierung der Inhalte und Navigationsführung beschreiben.
+Den High-Fid Prototypen können Sie mit einem passenden Tool Ihrer Wahl entwickeln (ich würde Ihnen Axure empfehlen, aber machen Sie sich gerne selbst ein Bild von der Tool-Landschaft). Input für mögliche Prototyping-Tools finden Sie in den Werkzeuganalysen aus der letzter Aufgabe.
 
-2. Im nächsten Schritt geben Sie dem Nutzer zwei konkrete Aufgaben. Beobachten Sie (per Screensharing oder Webcam), wie der Nutzer vorgeht (nutzen Sie die Think Aloud Methode!). Holen Sie Ihren Nutzer ab, falls er in seiner Beschreibung in einer Interaktions
-    1. "Wie sind die aktuellen Produktionszahlen im Vergleich zu den Zahlen von vor einem Jahr"
-    2. "
+Ihr finaler Prototyp muss als interaktive Browser-Anwendung lauffähig sein (deshalb bspw. keine Unity EXE), je nach Prototyping-Tool müssen Sie das Ergebnis also entsprechend exportieren/deployen und in ihrem Git-Repo per Github Pages hosten.
 
 
-### Beide Teilaufgaben bis zum 24. Mai um 18:00 in Ihrer Github-Repository-Readme verlinken.
--->
+
 
 ---
 
