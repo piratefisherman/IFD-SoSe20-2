@@ -20,11 +20,15 @@
 
 
 ### Literature
+
+Whalen, John et. al. **Think Human: Kundenzentriertes UX-Design** : mit kognitiver Psychologie zu besseren Produkten. Heidelberg: dpunkt.verlag, 2020
+
 Myers, David. **Psychologie**. Heidelberg: Springer, 2014.
 
 Card, Stuart et. al. **The Psychology of Human-Computer Interaction**. 4. Auflage. CRC Press, 2018.
 
 Hagendorf, Herbert. **Allgemeine Psychologie für Bachelor: Wahrnehmung und Aufmerksamkeit**. Berlin: Springer, 2011.
+
 
 ---
 
