@@ -6,6 +6,8 @@
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_01_Gestalt_Theory.mp4">Zum Video</a>
 </video>
 
+(kleine Anmerkung zum Titel: die Foliensätze sind in EN, eine Übersetzung zu "Gestalt Theorie" gibt es nicht, deshalb der Titel "Gestalt Theory").
+
 ### 8 Goldene Regeln von Ben Shneiderman
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_02_Shneidermans_8_Goldene_Regeln.mp4" type="video/mp4"> 
