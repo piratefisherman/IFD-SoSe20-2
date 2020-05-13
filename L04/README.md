@@ -1,23 +1,33 @@
-## **03 _#_** Wahrnehmung und Aufmerksamkeit
+## **04 _#_** Design Grundsätze und Heuristiken
 
-### Aspekte der Kognition im Interface Design
+### Gestalt Theorie von Max Wertheimer
 <video controls width="100%"> 
-    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L03/L03_01_Wahrnehmung.mp4" type="video/mp4"> 
-    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L03/L03_01_Wahrnehmung.mp4">Zum Video</a>
+    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_01_Gestalt_Theory.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_01_Gestalt_Theory.mp4">Zum Video</a>
 </video>
 
-### Der visuelle sensorische Speicher
+### 8 Goldene Regeln von Ben Shneiderman
 <video controls width="100%"> 
-    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L03/L03_02_The_Visual_Sensory_Memory.mp4" type="video/mp4"> 
-    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L03/L03_02_The_Visual_Sensory_Memory.mp4">Zum Video</a>
+    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_02_Shneidermans_8_Goldene_Regeln.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_02_Shneidermans_8_Goldene_Regeln.mp4">Zum Video</a>
 </video>
 
-### Subjektive Wahrnehmung
+### Grundsätze der Dialoggestaltung aus der ISO 9241
 <video controls width="100%"> 
-    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L03/L03_03_Subjective_Perception.mp4" type="video/mp4"> 
-    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L03/L03_03_Subjective_Perception.mp4">Zum Video</a>
+    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_03_ISO_9241-110.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_03_ISO_9241-110.mp4">Zum Video</a>
 </video>
 
+### Heuristiken von Nielsen und Molich
+<video controls width="100%"> 
+    <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_04_Heuristiken_Nielsen_Molich.mp4" type="video/mp4"> 
+    <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_04_Heuristiken_Nielsen_Molich.mp4">Zum Video</a>
+</video>
+
+
+<iframe src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_Design_Grundsaetze_und_Heuristiken_lq.pdf" width="100%" height="400px" style="border:none"></iframe>
+
+Den Foliensatz zu "Heuristiken von Nielsen und Molich" können Sie auch [hier](https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/L04_Design_Grundsaetze_und_Heuristiken_lq.pdf) als PDF herunterladen.
 
 ### Literature
 

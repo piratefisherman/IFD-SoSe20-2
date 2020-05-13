@@ -31,6 +31,7 @@
 ---
 
 ### [**04 _#_** Design Grundsätze und Heuristiken](L04)
+- Gestalt Theorie
 - ISO 9241
 - Shneidermann and the 8 golden rules
 - Nielsen und Molich
