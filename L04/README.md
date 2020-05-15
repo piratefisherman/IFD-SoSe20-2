@@ -38,6 +38,17 @@ tba
 
 ---
 
+In den Lektionen dieses Kurses lernen Sie zunächst die Grundlagen für das Prototyping und allgemeine Design Grundsätze kennen, die Sie auf sämtliche mediale Ebenen des Interface Designs adaptieren können.
+
+Im Praktikum werden wir uns jetzt von GUIs zu VUIs arbeiten, deshalb möchte ich Ihnen jetzt schon ein wenig Input für das Prototyping und Design-Guidelines von Voice User Interfaces anbieten. Hier finden Sie Einstiegsmaterial von DIM-Studenten:
+
+[Handout Design Grundsätze VUIs](https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/Handout_Guidelines_VUI-CUI.pdf)
+
+[Handout Prototyping VUIs](https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L04/Handout_Prototype_VUI-CUI.pdf)
+
+
+---
+
 
 ## **A _---_** Aufgabe #04
 
