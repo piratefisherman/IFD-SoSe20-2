@@ -33,8 +33,15 @@ Den Foliensatz zu "Heuristiken von Nielsen und Molich" können Sie auch [hier](h
 
 ### Literature
 
-tba
+Wertheimer, Max. **Untersuchungen Zur Lehre Von Der Gestalt. II**. Psychologische Forschung, vol 4, no. 1, 1923, pp. 301-350. Springer Nature
 
+Shneiderman, Ben. **Designing The User Interface: Strategies For Effective Human-Computer Interaction**. Pearson, 2017.
+
+DIN EN ISO 9241-110, **Ergonomie der Mensch-System-Interaktion - Teil 110: Interaktionsprinzipien**, 2019, DIN Deutsches Institut für Normung e. V.
+
+Schneider, Wolfgang. **Ergonomische Gestaltung von Benutzungsschnittstellen: Kommentar zur Grundsatznorm DIN EN ISO 9241-110**. Beuth Verlag, 2008.
+
+Nielsen, Jakob et al. **10 Heuristics for User Interface Design**, Nielsen Norman Group, 1994. Abgerufen am 15. Mai 2020 von www.nngroup.com/articles/ten-usability-heuristics/.
 
 ---
 
