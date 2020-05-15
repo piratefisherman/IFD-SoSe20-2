@@ -37,13 +37,16 @@ Hagendorf, Herbert. **Allgemeine Psychologie für Bachelor: Wahrnehmung und Aufm
 
 ### Aufgabe 3.1 - High-Fid Prototype
 
-Erstellen Sie einen High-Fidelity Prototypen auf Basis Ihres Low-Fids aus der letzten Aufgabe. Berücksichtigen Sie bei Ihrer Umsetzung auch das Feedback aus dem Praktikum. Der Prototyp sollte eine hohe visuelle, interaktive und inhaltliche Ebene bedienen (für die inhaltliche Ebene dürfen Sie sich natürlich Dummy-Daten ausdenken).
+Erstellen Sie einen High-Fidelity Prototypen auf Basis Ihres Low-Fids aus der letzten Aufgabe. Berücksichtigen Sie bei Ihrer Umsetzung das Feedback aus dem Praktikum. Reflektieren Sie ebenfalls die Aspekte dieser Lektion, um die kognitive Last bei dem Nutzer zu reduzieren. 
+
+Der Prototyp sollte eine hohe visuelle, interaktive und inhaltliche Ebene bedienen (für die inhaltliche Ebene dürfen Sie sich natürlich Dummy-Daten ausdenken).
 
 Den High-Fid Prototypen können Sie mit einem passenden Tool Ihrer Wahl entwickeln (ich würde Ihnen Axure empfehlen, aber machen Sie sich gerne selbst ein Bild von der Tool-Landschaft). Input für mögliche Prototyping-Tools finden Sie in den Werkzeuganalysen aus der letzter Aufgabe.
 
 Ihr finaler Prototyp muss als interaktive Browser-Anwendung lauffähig sein (deshalb bspw. keine Unity EXE), je nach Prototyping-Tool müssen Sie das Ergebnis also entsprechend exportieren/deployen und in ihrem Git-Repo per Github Pages hosten.
 
 
+### Die Aufgabe bis zum 24. Mai um 18:00 in Ihrer Github-Repository-Readme verlinken.
 
 
 ---
