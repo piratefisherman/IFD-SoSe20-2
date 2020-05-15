@@ -66,4 +66,4 @@ Konzipieren Sie eine grafische Schnittstelle zur Darstellung aller relevanten In
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
 (die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
 
-Die Lektion ließ keine Fragen offen.
+_Die Lektion ließ keine Fragen offen._
