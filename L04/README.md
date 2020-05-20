@@ -59,8 +59,23 @@ Im Praktikum werden wir uns jetzt von GUIs zu VUIs arbeiten, deshalb möchte ich
 
 ## **A _---_** Aufgabe #04
 
-tba
+### Prototyping eines Voice User Interfaces
 
+In den nächsten zwei Aufgaben-Blöcken werden wir einen VUI-Prototypen entwickeln. Mit diesem Aufgabenpaket werden Sie erst einmal das Konzept und den technischen Durchstich schaffen, im zweiten Block mit Aufgabe #05 dann einen lauffähigen web-basierten und/oder eine native Anwendung entwickeln (je nachdem, wie Sie sich technisch eingrooven).
+
+#### Aufgabe 4.1 - Konzeptentwurf
+
+Erstellen Sie zunächst ein Konzept eines Sprachassistenten, dafür schlage ich Ihnen zwei mögliche Wege vor:
+
+- **Variante 1 - ein BI VUI**: Ihr Konzeptentwurf bleibt im thematischen Rahmen der letzten Aufgabe. Ziel ist es diesmal, einen Sprachassistenten für die Geschäftsführung zu entwickeln, um das tägliche Briefing der Produktionszahlen auf auditiver Ebene zu automatisieren. Denkbar wäre beispielweise ein Szenario, in dem ein Geschäftsführer morgen im Büro beim ersten Kaffee die aktuellen Zahlen vorgelesen bekommen und in einem Dialog mit dem System weitere Details erfragen kann. Warum "BI"? Recherchieren Sie selbst.
+
+- **Variante 2 - ein neuartiges VUI**: wenn Sie sich für diese Variante entscheiden, dann gibt es quasi keine thematischen Einschränkungen. Einzig: Ihr Konzept für einen Sprachassistenten sollte einen neuartigen Ansatz vorstellen (bitte keine x-te Variante eines Smart-Home Assistenten, es sei denn Sie haben sich etwas spannendes ausgedacht). Seien Sie kreativ!
+
+Stellen Sie die Interaktion zwischen Nutzer und VUI als Dialog Flow dar. Dafür bietet sich beispielweise ein Tool wie [draw.io / diagrams.net](https://app.diagrams.net) an.  
+Sie können zusätzlich Ihr Konzept auch mit einem interaktiven Low-Fid VUI-Tool umsetzen, wie z.B. [tortu.io](https://tortu.io) (Tortu ist zwar optimiert für Chatbots, aber den Dialog Flow können Sie damit auch für ein VUI prototypen).
+
+
+#### Aufgabe #04.2 - Technischer Durchstich
 
 
 
