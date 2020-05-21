@@ -38,7 +38,14 @@ Kholmatova, Alla. **Design systems : a practical guide to creating design langua
 
 ## **A _---_** Aufgabe #05
 
-tba
+Der Konzeptentwurf eines VUIs aus der letzten Aufgabe wird nun zu einem interaktiven, funktionalen High-Fid Prototypen weiterentwickelt. Mögliche Werkzeuge zur Erstellung eines VUI-Prototypen haben Sie mit der letzten Aufgabe schon kennen gelernt.
+
+Nehmen Sie einen kurzen Screencast auf, der den finalen VUI Prototypen in Aktion zeigt.
+
+Legen Sie Ihr Projekt plus Screencast in Ihrem Repo ab.
+
+### Abgabe dieser Aufgabe bis zum 07. Juni um 18:00
+
 
 ---
 
