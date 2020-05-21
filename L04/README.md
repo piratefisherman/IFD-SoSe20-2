@@ -63,7 +63,7 @@ Im Praktikum werden wir uns jetzt von GUIs zu VUIs arbeiten, deshalb möchte ich
 
 In den nächsten zwei Aufgaben-Blöcken werden wir einen VUI-Prototypen entwickeln. Mit diesem Aufgabenpaket werden Sie erst einmal das Konzept und den technischen Durchstich schaffen, im zweiten Block mit Aufgabe #05 dann einen lauffähigen web-basierten und/oder eine native Anwendung entwickeln (je nachdem, wie Sie sich technisch eingrooven).
 
-#### Aufgabe 4.1 - Konzeptentwurf
+### Aufgabe 4.1 - Konzeptentwurf
 
 Erstellen Sie zunächst ein Konzept eines Sprachassistenten, dafür schlage ich Ihnen zwei mögliche Wege vor:
 
@@ -74,9 +74,17 @@ Erstellen Sie zunächst ein Konzept eines Sprachassistenten, dafür schlage ich 
 Stellen Sie die Interaktion zwischen Nutzer und VUI als Dialog Flow dar. Dafür bietet sich beispielweise ein Tool wie [draw.io / diagrams.net](https://app.diagrams.net) an.  
 Sie können zusätzlich Ihr Konzept auch mit einem interaktiven Low-Fid VUI-Tool umsetzen, wie z.B. [tortu.io](https://tortu.io) (Tortu ist zwar optimiert für Chatbots, aber den Dialog Flow können Sie damit auch für ein VUI prototypen).
 
+Dokumentieren Sie Ihren Konzeptentwurf in Ihrem Github Repo.
 
-#### Aufgabe #04.2 - Technischer Durchstich
+### Aufgabe #04.2 - Technischer Durchstich
 
+Ziel der Teilaufgabe ist es, sich mit der technischen Machbarkeit eines VUIs zu beschäftigen und sich mit den Werkzeugen zur Entwicklung eines Sprachassistenten vertraut zu machen.
+
+Je nachdem, ob Sie sich eher als technikaffiner Designer oder als designorientierter Entwickler einordnen, können Sie zwischen zwei Herangehensweisen wählen:
+
+- **Browser-basiertes VUI**: durch Schnittstellen, wie WebRTC, und Speech-to-Text Cloud Computing Lösungen durch die Speech Recognition API, ist es möglich einen Browser-basierten Sprachassistenten zu entwickeln. Die STT-Synthese wird dabei (je nach Browsern) von den großen Platzhirschen, wie Google oder Apple, abgewickelt. Damit Sie sich nicht mit den Low-Level APIs beschäftigen müssen, habe ich Ihnen ein einfaches Grundgerüst mit dem Wrapper [artyom](https://sdkcarlos.github.io/sites/artyom.html) vorbereitet. Das Grundgerüst finden Sie im [Aufagbenordner > Browser-based VUI](https://github.com/gabriel-rausch/IFD-SoSe20/tree/master/L04/task_material/Browser-based_VUI). Arbeiten Sie sich in das Grundgerüst und den Wrapper [artyom](https://sdkcarlos.github.io/sites/artyom.html) ein.
+
+- **Natives Offline VUI**: statt im Browser und durch die STT-Services von großen Anbietern ist auch ein Ansatz als native Anwendung mit einer Offline STT-Engine möglich. Die Open-Source STT-Engine [DeepSpeech](https://deepspeech.readthedocs.io/) von Mozilla bietet sich dafür beispielsweise an. Die DeepSpeech API kann durch viele Technologien genutzt werden, darunter auch NodeJS (das Sie in den Kursen EIA/GIS schon kennen gelernt haben). Im [Aufagbenordner > Offline VUI](https://github.com/gabriel-rausch/IFD-SoSe20/tree/master/L04/task_material/Offline_VUI) finden Sie ein Grundgerüst und einige Informationen zur Einrichtung der NodeJS-basierten Anwendung.  
 
 
 ---
