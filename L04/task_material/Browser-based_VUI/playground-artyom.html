@@ -6,9 +6,60 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Playgroud Artyom</title>
     <script src="js/libs/artyom.window.min.js"></script>
-    <script src="js/playgroud-artyom-script.js"></script>
+   <!-- <script src="js/playgroud-artyom-script.js"></script>-->
 </head>
 <body>
     <p>This is a playground to test the web-based capabilities for a <b>Voice User Interface</b> with artyom.</p>
+    <div>
+        <input type="button" onclick="startArtyom()" value="Start voice commands"/><br>
+        <input type="button" onclick="stopArtyom()" value="Stop listening"/><br>
+        <span id="output"></span>
+    </div>
+    <script>
+        const artyom = new Artyom();
+       artyom.addCommands([
+           {
+             description:"Artyom can talk too, lets say something if we say hello",
+             indexes:["hello", "hey"],
+             action: function(i){
+
+                 if(i==0){
+                     artyom.say("Hello! How are you? Peacock Squirt");
+                 }
+       }
+           },
+           {
+               indexes:["goodbye"],
+               action: function(){
+                   alert("Now all is over.");
+               }
+           }
+       ]);
+
+       artyom.redirectRecognizedTextOutput(function(text,isFinal){
+           var span = document.getElementById('output');
+
+           if(isFinal){
+               span.innerHTML = '';
+           }else {
+               span.innerHTML = text;
+           }
+
+       });
+
+
+        function startArtyom(){
+            artyom.initialize({
+                lang:"en-GB",
+                continuous: false,
+                debug: true,
+                listen:true
+            });
+        }
+
+        function stopArtyom(){
+            artyom.fatality();
+        }
+    </script>
 </body>
 </html>
