@@ -4,10 +4,10 @@ window.addEventListener("load", function(): void {
     const artyom: any = new Artyom();
     
     artyom.addCommands({
-        indexes: ["Hallo *"],
         smart: true,
-        action: function(i: any, wildcard: string): void {
-            console.log("Name: " + wildcard);
+        indexes: ["Repeat after me *"],
+        action: function(i, wildcard) {
+            artyom.say(wildcard);
         }
     });
     
@@ -17,7 +17,7 @@ window.addEventListener("load", function(): void {
         setTimeout(
             function(): void {
                 artyom.initialize({
-                    lang: "de-DE",
+                    lang: "en-GB",
                     continuous: true,
                     listen: true,
                     interimResults: true,
@@ -30,5 +30,5 @@ window.addEventListener("load", function(): void {
     }
     
     startContinuousArtyom();
-    
+
 });

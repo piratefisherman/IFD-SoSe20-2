@@ -9,24 +9,31 @@
    <!-- <script src="js/playgroud-artyom-script.js"></script>-->
 </head>
 <body>
-    <p>This is a playground to test the web-based capabilities for a <b>Voice User Interface</b> with artyom.</p>
+
     <div>
-        <input type="button" onclick="startArtyom()" value="Start voice commands"/><br>
-        <input type="button" onclick="stopArtyom()" value="Stop listening"/><br>
+        <input type="button" onclick="startArtyom()" value="Start voice commands"/> <br>
+        <input type="button" onclick="stopArtyom()" value="Stop listening"/> <br>
+        <input type="button" onclick="repeatText()" value="repeat"/> <br>
         <span id="output"></span>
+        <input type="button" onclick="test()" value="test"/> <br>
     </div>
     <script>
+
         const artyom = new Artyom();
-       artyom.addCommands([
+
+        artyom.addCommands([
            {
-             description:"Artyom can talk too, lets say something if we say hello",
+             description:"Artyom can talk too, lets say something when we say hello",
              indexes:["hello", "hey"],
              action: function(i){
 
                  if(i==0){
-                     artyom.say("Hello! How are you? Peacock Squirt");
+                     artyom.say("Hi! How are you? Peacock Squirt");
                  }
-       }
+                 if(i==1) {
+                     artyom.say("Heydidledidey!");
+                 }
+             }
            },
            {
                indexes:["goodbye"],
@@ -35,31 +42,60 @@
                }
            }
        ]);
+        var spokenText = "";
 
-       artyom.redirectRecognizedTextOutput(function(text,isFinal){
+       artyom.redirectRecognizedTextOutput(function(text, isFinal){
            var span = document.getElementById('output');
 
            if(isFinal){
                span.innerHTML = '';
            }else {
                span.innerHTML = text;
-           }
+               if(artyom.isSpeaking().toString() === "false") {
 
+                   spokenText = text;
+                   return spokenText;
+               }
+           }
        });
 
+function artyomGate(){
+    setTimeout(function(){console.log("Speaking : "+ artyom.isSpeaking().toString());}, 500);
+}
+        function repeatText(){
+            artyom.say(spokenText);
+        }
 
         function startArtyom(){
             artyom.initialize({
                 lang:"en-GB",
-                continuous: false,
+                continuous: true,
+                obeyKeywords: "What's this song called?",
                 debug: true,
                 listen:true
             });
+            artyom.say("Welcome to Sound Origin, what's your name?",
+                {
+                    onStart: artyomGate()
+                },
+
+                {
+                    onEnd: artyomGate()
+                }
+            );
         }
 
+
+if(spokenText== "John"){
+   console.log("Spoken Text received");
+   /* artyom.say("Hi John, I'm here to tell you the name of any Song. Just sing or play a recording for me, anytime.");*/
+};
+console.log(spokenText);
         function stopArtyom(){
             artyom.fatality();
         }
+
+
     </script>
 </body>
 </html>

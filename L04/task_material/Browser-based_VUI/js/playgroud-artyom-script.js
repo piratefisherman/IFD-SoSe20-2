@@ -23,4 +23,5 @@ window.addEventListener("load", function () {
     }
     startContinuousArtyom();
 });
-//# sourceMappingURL=playgroud-artyom-script.js.map
+
+
